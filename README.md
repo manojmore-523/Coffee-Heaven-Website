@@ -12,7 +12,7 @@ This is a web based application developed for a coffee shop named Coffee Heaven.
 ### This web based coffee shop application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://paradise-restaurant.azurewebsites.net
+**Project Link** -https://victorious-cliff-0e1a4e910.1.azurestaticapps.net
 
 
 **Demo Video** -  https://www.youtube.com/watch?v=_pKWyCiRrcg&t=2s
@@ -29,14 +29,18 @@ This is a web based application developed for a coffee shop named Coffee Heaven.
 ## Screenshots 📸
 ### Home page -   
 ![](img/ss_home.png)
+### About Us Page -
+![](img/ss_about.png)
+### Menu Page -
+![](img/ss_menu.png)
+### Gallery Page -
+![](img/ss_menu.png)
 ### Team page -
 ![](img/ss_team.png)
 ### Contact page -
 ![](img/ss_contact.png)
-### Menu Page -
-![](img/ss_menu.png)
-### About Us Page -
-![](img/ss_about.png)
+
+
 
 ## Tech Stack 💻
 
