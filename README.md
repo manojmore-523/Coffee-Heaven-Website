@@ -34,7 +34,7 @@ This is a web based application developed for a coffee shop named Coffee Heaven.
 ### Menu Page -
 ![](img/ss_menu.png)
 ### Gallery Page -
-![](img/ss_gallery.png)
+![](img/ss_gallary.png)
 ### Team page -
 ![](img/ss_team.png)
 ### Contact page -
