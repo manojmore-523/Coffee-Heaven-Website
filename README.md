@@ -15,7 +15,7 @@ This is a web based application developed for a coffee shop named Coffee Heaven.
 **Project Link** -https://victorious-cliff-0e1a4e910.1.azurestaticapps.net
 
 
-**Demo Video** -  https://www.youtube.com/watch?v=_pKWyCiRrcg&t=2s
+**Demo Video** -  https://www.youtube.com/watch?v=cfh7dHVn8kU
 
 ## Features and Functionalities 😃
 
