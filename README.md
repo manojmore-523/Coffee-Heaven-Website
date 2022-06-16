@@ -29,12 +29,12 @@ This is a web based application developed for a coffee shop named Coffee Heaven.
 ## Screenshots 📸
 ### Home page -   
 ![](img/ss_home.png)
-### About Us Page -
+### About Page -
 ![](img/ss_about.png)
 ### Menu Page -
 ![](img/ss_menu.png)
 ### Gallery Page -
-![](img/ss_menu.png)
+![](img/ss_gallery.png)
 ### Team page -
 ![](img/ss_team.png)
 ### Contact page -
